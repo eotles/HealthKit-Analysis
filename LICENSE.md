@@ -1,6 +1,5 @@
 
-Copyright (c) 2019, Erkin Ötleş
-All rights reserved.
+Copyright (c) 2023 Erkin Ötleş.
 
 
 [apple_health_xml_convert.py](https://github.com/eotles/HealthKit-Analysis/blob/main/apple_health_xml_convert.py) based off of [Simple-Apple-Health-XML-to-CSV](https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/tree/master) project by [Jason Meno](https://github.com/jameno).
